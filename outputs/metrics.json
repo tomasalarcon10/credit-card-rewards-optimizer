@@ -1,0 +1,355 @@
+{
+  "cards": 24,
+  "cards_with_assumed_values": 14,
+  "valuation_defaults": {
+    "trm": 3240.0,
+    "puntos_colombia": 6.0,
+    "puntos_bbva": 30.0,
+    "davipuntos": 15.0,
+    "one_rewards": 15.0,
+    "cmr_puntos": 19.2,
+    "avg_ticket": 60000.0
+  },
+  "personas": {
+    "University student": {
+      "monthly_spend_cop": 1300000,
+      "top3": [
+        {
+          "card": "bbva_blue_diamond",
+          "net_annual_cop": 433333
+        },
+        {
+          "card": "bbva_platinum",
+          "net_annual_cop": 433333
+        },
+        {
+          "card": "bbva_infinite",
+          "net_annual_cop": 433333
+        }
+      ],
+      "tied_best": [
+        "bbva_platinum",
+        "bbva_infinite",
+        "bbva_blue_diamond"
+      ],
+      "best_per_bank": {
+        "Bancolombia": {
+          "card": "bcol_amex_green",
+          "net_annual_cop": -115975
+        },
+        "BBVA": {
+          "card": "bbva_platinum",
+          "net_annual_cop": 433333
+        },
+        "DAVIbank": {
+          "card": "davibank_infinite",
+          "net_annual_cop": 224444
+        },
+        "Davivienda": {
+          "card": "davi_diners",
+          "net_annual_cop": 72222
+        },
+        "Banco Falabella": {
+          "card": "cmr",
+          "net_annual_cop": -234120
+        },
+        "Nu": {
+          "card": "nu",
+          "net_annual_cop": 0
+        }
+      },
+      "best_pair": "bbva_platinum",
+      "best_pair_value_cop": 433333,
+      "routing": {
+        "food": "bbva_platinum",
+        "transport": "bbva_platinum",
+        "entertainment": "bbva_platinum",
+        "clothing": "bbva_platinum",
+        "health": "bbva_platinum",
+        "usd_online": "bbva_platinum"
+      },
+      "bbva_point_value_needed_for_bbva_to_win": 15.538461538471893
+    },
+    "Young professional": {
+      "monthly_spend_cop": 3200000,
+      "top3": [
+        {
+          "card": "bbva_blue_diamond",
+          "net_annual_cop": 1066667
+        },
+        {
+          "card": "bbva_platinum",
+          "net_annual_cop": 1066667
+        },
+        {
+          "card": "bbva_infinite",
+          "net_annual_cop": 1066667
+        }
+      ],
+      "tied_best": [
+        "bbva_platinum",
+        "bbva_infinite",
+        "bbva_blue_diamond"
+      ],
+      "best_per_bank": {
+        "Bancolombia": {
+          "card": "bcol_amex_green",
+          "net_annual_cop": 38896
+        },
+        "BBVA": {
+          "card": "bbva_platinum",
+          "net_annual_cop": 1066667
+        },
+        "DAVIbank": {
+          "card": "davibank_infinite",
+          "net_annual_cop": 583333
+        },
+        "Davivienda": {
+          "card": "davi_diners_black",
+          "net_annual_cop": 266667
+        },
+        "Banco Falabella": {
+          "card": "cmr",
+          "net_annual_cop": 2040
+        },
+        "Nu": {
+          "card": "nu",
+          "net_annual_cop": 0
+        }
+      },
+      "best_pair": "bbva_platinum",
+      "best_pair_value_cop": 1066667,
+      "routing": {
+        "food": "bbva_platinum",
+        "transport": "bbva_platinum",
+        "entertainment": "bbva_platinum",
+        "clothing": "bbva_platinum",
+        "education": "bbva_platinum",
+        "health": "bbva_platinum",
+        "travel": "bbva_platinum",
+        "usd_online": "bbva_platinum",
+        "falabella_group": "bbva_platinum"
+      },
+      "bbva_point_value_needed_for_bbva_to_win": 16.40625
+    },
+    "Frequent traveller": {
+      "monthly_spend_cop": 6200000,
+      "top3": [
+        {
+          "card": "bbva_blue_diamond",
+          "net_annual_cop": 2066667
+        },
+        {
+          "card": "bbva_platinum",
+          "net_annual_cop": 2066667
+        },
+        {
+          "card": "bbva_infinite",
+          "net_annual_cop": 2066667
+        }
+      ],
+      "tied_best": [
+        "bbva_platinum",
+        "bbva_infinite",
+        "bbva_blue_diamond"
+      ],
+      "best_per_bank": {
+        "Bancolombia": {
+          "card": "bcol_amex_green",
+          "net_annual_cop": 283429
+        },
+        "BBVA": {
+          "card": "bbva_platinum",
+          "net_annual_cop": 2066667
+        },
+        "DAVIbank": {
+          "card": "davibank_infinite",
+          "net_annual_cop": 1250000
+        },
+        "Davivienda": {
+          "card": "davi_diners_black",
+          "net_annual_cop": 516667
+        },
+        "Banco Falabella": {
+          "card": "cmr",
+          "net_annual_cop": 353400
+        },
+        "Nu": {
+          "card": "nu",
+          "net_annual_cop": 0
+        }
+      },
+      "best_pair": "bbva_platinum",
+      "best_pair_value_cop": 2066667,
+      "routing": {
+        "food": "bbva_platinum",
+        "transport": "bbva_platinum",
+        "entertainment": "bbva_platinum",
+        "clothing": "bbva_platinum",
+        "health": "bbva_platinum",
+        "travel": "bbva_platinum",
+        "usd_online": "bbva_platinum",
+        "falabella_group": "bbva_platinum"
+      },
+      "bbva_point_value_needed_for_bbva_to_win": 18.145161290340184
+    },
+    "High spender": {
+      "monthly_spend_cop": 14000000,
+      "top3": [
+        {
+          "card": "bbva_blue_diamond",
+          "net_annual_cop": 4166667
+        },
+        {
+          "card": "bbva_platinum",
+          "net_annual_cop": 4166667
+        },
+        {
+          "card": "bbva_infinite",
+          "net_annual_cop": 4166667
+        }
+      ],
+      "tied_best": [
+        "bbva_platinum",
+        "bbva_infinite",
+        "bbva_blue_diamond"
+      ],
+      "best_per_bank": {
+        "Bancolombia": {
+          "card": "bcol_black",
+          "net_annual_cop": 872730
+        },
+        "BBVA": {
+          "card": "bbva_platinum",
+          "net_annual_cop": 4166667
+        },
+        "DAVIbank": {
+          "card": "davibank_infinite",
+          "net_annual_cop": 2416667
+        },
+        "Davivienda": {
+          "card": "davi_diners_black",
+          "net_annual_cop": 1041667
+        },
+        "Banco Falabella": {
+          "card": "cmr",
+          "net_annual_cop": 1148280
+        },
+        "Nu": {
+          "card": "nu",
+          "net_annual_cop": 0
+        }
+      },
+      "best_pair": "bbva_platinum",
+      "best_pair_value_cop": 4166667,
+      "routing": {
+        "food": "bbva_platinum",
+        "transport": "bbva_platinum",
+        "entertainment": "bbva_platinum",
+        "clothing": "bbva_platinum",
+        "education": "bbva_platinum",
+        "health": "bbva_platinum",
+        "travel": "bbva_platinum",
+        "usd_online": "bbva_platinum",
+        "falabella_group": "bbva_platinum",
+        "taxes": "bbva_platinum"
+      },
+      "bbva_point_value_needed_for_bbva_to_win": 17.400000000088767
+    }
+  },
+  "personas_if_bbva_point_is_worth_10_cop": {
+    "University student": {
+      "best_card": "davibank_infinite",
+      "net_annual_cop": 224444
+    },
+    "Young professional": {
+      "best_card": "davibank_infinite",
+      "net_annual_cop": 583333
+    },
+    "Frequent traveller": {
+      "best_card": "davibank_infinite",
+      "net_annual_cop": 1250000
+    },
+    "High spender": {
+      "best_card": "davibank_infinite",
+      "net_annual_cop": 2416667
+    }
+  },
+  "monte_carlo": {
+    "n": 20000,
+    "ranges": {
+      "puntos_colombia": [
+        5,
+        7
+      ],
+      "puntos_bbva": [
+        10,
+        30
+      ],
+      "davipuntos": [
+        10,
+        15
+      ],
+      "one_rewards": [
+        10,
+        20
+      ],
+      "cmr_puntos": [
+        10,
+        20
+      ],
+      "avg_ticket": [
+        30000,
+        150000
+      ]
+    },
+    "median_monthly_spend_cop": 2975000,
+    "win_share_by_card": {
+      "bbva_platinum": 0.7017,
+      "davibank_infinite": 0.2962,
+      "davibank_light": 0.0022
+    },
+    "win_share_by_bank": {
+      "BBVA": 0.7017,
+      "DAVIbank": 0.2983
+    },
+    "winner_has_listed_fee_share": 0.2962,
+    "top_winners_by_spend": {
+      "<1.5M": {
+        "bbva_platinum": 0.7909,
+        "davibank_infinite": 0.1958,
+        "davibank_light": 0.0133
+      },
+      "1.5-3M": {
+        "bbva_platinum": 0.6901,
+        "davibank_infinite": 0.3099
+      },
+      "3-6M": {
+        "bbva_platinum": 0.6814,
+        "davibank_infinite": 0.3186
+      },
+      "6-12M": {
+        "bbva_platinum": 0.6822,
+        "davibank_infinite": 0.3178
+      },
+      ">12M": {
+        "bbva_platinum": 0.6601,
+        "davibank_infinite": 0.3399
+      }
+    },
+    "bbva_win_share_by_point_value": {
+      "(10, 15]": 0.1981,
+      "(15, 20]": 0.6283,
+      "(20, 25]": 0.959,
+      "(25, 30]": 0.9998
+    },
+    "median_gain_second_card_cop": 0,
+    "share_where_second_card_adds_value": 0.1043,
+    "top_pairs": {
+      "bbva_platinum": 0.6249,
+      "davibank_infinite": 0.2686,
+      "bbva_platinum + davibank_infinite": 0.1043,
+      "davibank_light": 0.0022
+    }
+  }
+}
